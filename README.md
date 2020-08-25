@@ -5,7 +5,7 @@ tools that will require some initial configuration.
 
 ===========
 
-1. To start, [**fork** repository][forking] [fdac18/Practice0][assignment]
+1. To start, [**fork** repository][forking] [fdac20/Practice0][assignment]
 1. You should be able to connect to your
    container via ssh (putty)
 1. Connect to your docker container (this opens up a terminal with a commmand-line)
@@ -66,11 +66,11 @@ tools that will require some initial configuration.
    
 1. At https://github.com/USERNAME/Practice0
    Create a [**pull request**][pull-request] on the
-   original repository [fdac18/Practice0][assignment]  to
+   original repository [fdac20/Practice0][assignment]  to
    turn in the assignment.
 
 
-[assignment]: https://github.com/fdac18/Practice0
+[assignment]: https://github.com/fdac20/Practice0
 [forking]: https://guides.github.com/activities/forking/
 [ref-clone]: http://gitref.org/creating/#clone
 [ref-commit]: http://gitref.org/basic/#commit
